@@ -1,77 +1,85 @@
-# Hi there 👋 I'm Om Patil
+<div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Om%20Patil&fontAlign=50&fontAlignY=40&desc=Computer%20Science%20Student&animation=twinkling" />
-</p>
+# Hi, I'm Om Patil 👋
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?lines=Computer+Science+Student;Machine+Learning+Researcher;AI+%7C+Backend+%7C+Data+Analytics;Open+to+Internships&center=true&width=700&height=45" />
-</p>
+### Computer Science @ Texas Tech University — Building AI-powered, cross-domain software
 
-<p align="center">
+[![Portfolio](https://img.shields.io/badge/Live%20Project-Lumisync-CC0000?style=for-the-badge)](https://lumisync.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-patil-950817254)
+[![Email](https://img.shields.io/badge/Email-Om.Patil%40ttu.edu-333333?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:Om.Patil@ttu.edu)
 
-![Open to Work](https://img.shields.io/badge/Open%20to-Internships%20%26%20Jobs-success)
+</div>
 
-![](https://komarev.com/ghpvc/?username=ompatil0305&color=7dd3fc)
-![](https://img.shields.io/github/followers/ompatil0305?label=Followers&style=social)
+---
 
-</p>
+## About Me
 
-## 👨‍💻 Who I Am
+I'm a Computer Science undergraduate at **Texas Tech University**, working across AI/ML, data science, and full-stack engineering. My work spans research, sports analytics, and agricultural science — I like applying computational tools to real domains rather than staying in one lane.
 
-```ts
-const om = {
-  title: "Computer Science Student",
-  stack: ["Python","Java","C++","SQL","React","Node.js","MongoDB","PostgreSQL","PyTorch","OpenCV","Docker","AWS"],
-  launchedProjects: 0,
-  certifications: ["AWS (Foundational)"],
-  status: "Undergraduate Research Assistant in AI & Computational Biology",
-  openTo: "Software Engineering, AI/ML, Data Science Internships"
-}
-```
+- 🔬 Undergraduate Research Assistant, TTU Aerosol Lab (Dr. Karin Ardon-Dryer)
+- 📄 Co-author on a manuscript submitted to *Plant & Cell Environment*
+- 📊 Data Analyst experience at **InStat Sports (Hudl)**
+- 🧠 Building an ML image-analysis pipeline with PyTorch & OpenCV
+- 🎯 Open to Software Engineering / AI-ML / Data Science roles and internships
 
-## 🚀 Featured Projects
+---
 
-> No public GitHub repositories were provided yet. Once you publish projects, this section can automatically showcase repository cards.
+## 🚀 Featured Project
 
-Projects from your resume:
+### [Lumisync](https://github.com/ompatil0305/lumisync) — AI-Powered Campus Operating System
 
-- **TechTrade** — Full-stack marketplace for pre-owned electronics.
-- **Scalable Backend Service** — Concurrent backend service using Java/Python.
-- **Data Processing & Analytics Platform** — Backend ingestion pipeline using Python, PostgreSQL and Docker.
+One platform for everything a university student needs day to day: interactive campus map, faculty directory, dining, parking, and campus jobs — think Google Maps + your university portal, unified.
+
+**Currently live for Texas Tech University**, built with a provider-based architecture designed to extend to other campuses without UI changes.
+
+[![Live App](https://img.shields.io/badge/App-lumisync.vercel.app-CC0000?style=flat-square)](https://lumisync.vercel.app)
+[![Marketing Site](https://img.shields.io/badge/Website-lumisync--website.vercel.app-000000?style=flat-square)](https://lumisync-website.vercel.app)
+[![Repo](https://img.shields.io/badge/Repo-lumisync-181717?style=flat-square&logo=github)](https://github.com/ompatil0305/lumisync)
+
+`React` · `TypeScript` · `Vite` · `Tailwind CSS` · `Leaflet` · `OpenStreetMap`
+
+---
 
 ## 🛠 Tech Stack
 
-### Languages
-![My Skills](https://skillicons.dev/icons?i=python,java,cpp,r,sql)
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Web & Backend
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,postgres)
+**Web & Backend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### AI / ML
-![My Skills](https://skillicons.dev/icons?i=pytorch)
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### Dev Tools
-![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws)
+**Tools & Infra**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ompatil0305&show_icons=true&theme=nord)
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ompatil0305&layout=compact&theme=nord)
+![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=ompatil0305&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![](https://streak-stats.demolab.com?user=ompatil0305&theme=nord)
+</div>
 
-![](https://github-profile-trophy.vercel.app/?username=ompatil0305&theme=nord&no-frame=true&no-bg=true)
+---
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=ompatil0305&theme=nord)
+## 📫 Let's Connect
 
-## 🌐 Connect
+I'm currently looking for **Software Engineering, AI/ML, and Data Science** opportunities. Feel free to reach out.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Om%20Patil-blue?logo=linkedin)](https://www.linkedin.com/in/om-patil-950817254)
-
-- Email: Om.Patil@ttu.edu
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-om--patil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-patil-950817254)
+[![Email](https://img.shields.io/badge/Email-Om.Patil%40ttu.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Om.Patil@ttu.edu)
