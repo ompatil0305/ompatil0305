@@ -26,7 +26,7 @@ I'm a Computer Science undergraduate at **Texas Tech University**, working acros
 
 ## 🚀 Featured Project
 
-### [Lumisync](https://github.com/ompatil0305/lumisync) — AI-Powered Campus Operating System
+### [Lumisync](https://github.com/ompatil0305/lumisync) — Campus life, in motion.
 
 One platform for everything a university student needs day to day: interactive campus map, faculty directory, dining, parking, and campus jobs — think Google Maps + your university portal, unified.
 
